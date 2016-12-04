@@ -2,8 +2,8 @@ var bio = {
     name: "Keerthi Mohan",
     role: "Front End Web Developer",
     contacts: {
-        mobile: "9495966919",
-        email: "keerthimohan15@gmail.com",
+        mobile: "1234567890",
+        email: "km15@gmail.com",
         github: "KeerthiMohan15",
         twitter: "@keerthimohan15",
         location: "Kerala"
